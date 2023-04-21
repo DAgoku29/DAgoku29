@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DAgoku29
-- 👀 I’m interested in learning new things, Game development, Web development, C and Python.
+- 👀 I’m interested in learning new things, Game development, Flutter, C and Java.
 - 🌱 I’m currently learning about game development.
 - 💞️ I’m looking to collaborate on all kind of platforms which enhance my skills and help me to gain experience.
 - 📫 How to reach me through my email i.e., divyanshu.goku@gmail.com
